@@ -1,25 +1,24 @@
 Vyúètování a rozpis hodin :
 ================================
-Práce na bytì Oty a Aneky
-Kvìten 2022:
-7. kvìtna: 7 hodin
-8. kvìtna: 8 hodin
-            náklady na nákup èistích prostøedkù: 123 Kè
-            Kanály - 800 Kè - zvláš
-10. kvìtna : 6-16 10 h - 1 hodina pauza = 9 hodin
-11. kvìtna : 16:30-20:00 3,5 hodin
-12.kvìtna : 16:15 - 21:15 5 hodin
-13. kvìtna: 12:15 - 18:45 6,5 hodin 
-                náklady na nákup: 2 x ocet 22 Kè
-============================
-Celkem: 39,0 hodin
-============================ 
 
-Vyúètování  : 39 x 130 = 5 070 Kè
-Nákup èistích prostøedkù: 123 Kè
-Nákup octa:                22 Kè
-=====================================
-Celkem:   5 215 Kè
-=====================================
 
 13.kvìtna: Ota uhradil hotovì víkend 7. - 8. kvìtna.
+
+Po zapoètení BonaFarm:
+------------------------
+10. kvìtna 1  hodina 
+11. kvìtna : 16:30-20:00 3,5 hodin
+12.kvìtna : 16:15 - 21:15 5 hodin
+13. kvìtna: 12:15 - 18:45 2,5 hodin 
+====================================
+Celkem: 12 hodin
+====================================
+12 x 130 = 1560 Kè
+
+Nákup èistích prostøedkù: 123 Kè
+Nákup octa:                22 Kè
+
++ Zvláštní odmìna Ota: 800 Kè
+=====================================
+Celkem:   2505 Kè
+=====================================
